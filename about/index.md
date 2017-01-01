@@ -1,37 +1,44 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: Kyungjun Park
+tags: [about, kyungjun, ryan]
+date: 2017-01-01
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<figure class="half">
+    <img src="/assets/img/profile_photo.jpg">
+    <pre>
+    <strong>좋은 개발자란 무엇일까</strong> 생각해가며 살아가는 개발자
+    입니다. <a href="https://goo.gl/IY85Wx"><strong>소프트웨어 장인</strong></a>이라는 책을 읽고나서 블로그를
+    만들어야 겠다는 생각에 무작정 만들기 시작하였다.
+    앞으로 내가 무엇을 남겨가야 될지 막막하지만,
+    누군가가 나의 블로그를 통해 조금이라도 도움을 얻길
+    희망한다.
+    살 것도 없으면서 강남의 교보문고를 가서 돌아보는 것이
+    취미이며, 사진 찍으러 돌아다니는 여행을 좋아한다. 맛집
+    을 찾아가며 먹기 전 음식사진을 찍는 것도 좋아한다.
+    끝으로, 지금의 내가 있게 해주시고 개발이라는 것을 하며
+    즐거운 삶을 살 수 있도록 인도해주신 하나님 아버지께
+    모든 영광을 돌린다.
+    </pre>
+</figure>
 
-## Preview
+## EDUCATION
+* 숭실대학교 컴퓨터학부 4학년 휴학, 2011 ~ 현재
+* IT 특기자 수시 전형으로 입학
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+## WORK EXPERIENCE
+* [리디](http://www.ridicorp.com/), 스토어팀, 2016.07 - 현재
+* [이파피루스](https://epapyrus.com/), 연구개발실	, 2015.10 – 216.07
+* 코쿤게임즈, 개발팀, 2014.12 – 2015.08
+* Microsoft, R&D팀, 2013.01 – 2013.07
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## EXTRA-CURRICULAR ACTIVITES
+* [SW Maestro](http://www.swmaestro.kr/web/web/main.do), 3기 연수생, 2012. 06 – 2012. 12
+* 컴퓨터학부 학술 소모임 SCCC, 회장, 2012. 01 – 2012. 12
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## AWARDS
+* 제 12회 대학생 프로그래밍 경진대회 동상, 2012. 11
+* ACM-ICPC Asia Regional Daejeon Site 8th Place, 2012. 11
+* 한국정보올림피아드(KOI) 경시대회 동상, 2009. 07
