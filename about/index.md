@@ -44,3 +44,6 @@ comments: false
 * 제 12회 대학생 프로그래밍 경진대회 동상, 2012. 11
 * ACM-ICPC Asia Regional Daejeon Site 8th Place, 2012. 11
 * 한국정보올림피아드(KOI) 경시대회 동상, 2009. 07
+
+## Miscellaneous
+* [Baekjoon Online Judge](https://www.acmicpc.net/user/ryan_park)
