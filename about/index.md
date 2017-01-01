@@ -12,6 +12,8 @@ comments: false
     <strong>좋은 개발자란 무엇일까</strong> 생각해가며 살아가는 개발자
     입니다. <a href="https://goo.gl/IY85Wx"><strong>소프트웨어 장인</strong></a>이라는 책을 읽고나서 블로그를
     만들어야 겠다는 생각에 무작정 만들기 시작하였다.
+    나의 최근 관심사는 <a href="https://en.wikipedia.org/wiki/Domain-driven_design"><strong>Domain Driven Design(DDD)</strong></a>,
+    빅데이터, 안드로이드 프로그래밍 이다.
     앞으로 내가 무엇을 남겨가야 될지 막막하지만,
     누군가가 나의 블로그를 통해 조금이라도 도움을 얻길
     희망한다.
