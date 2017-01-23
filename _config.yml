@@ -25,6 +25,11 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
+# Collections
+collections:
+  books:
+    output: true
+
 # Comments
 disqus_shortname:   taylantatli
 
