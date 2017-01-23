@@ -5,6 +5,7 @@ date: 2017-01-04
 excerpt: "개발 기간 산정에는 늘 괴리감이 있었다. 최근 진행했던 프로젝트를 통해 이 괴리감이 왜 생겼는지 고민해보고 개선 방안을 적어보았다."
 tags: [프로젝트, 개발, 일정, ddd, domain-driven-design]
 comments: true
+category: development
 ---
 
 # 1. 서론
