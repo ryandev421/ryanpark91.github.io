@@ -23,7 +23,6 @@ comments: true
     <tr>
         <td>1</td>
         <td>서론</td>
-        <td><a href="/navigating-finances/1" class="btn btn-sm">READ</a></td>
     </tr>
     <tr>
         <td>2</td>
