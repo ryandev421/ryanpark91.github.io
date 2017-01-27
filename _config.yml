@@ -28,6 +28,12 @@ sass:
 # Comments
 disqus_shortname:   taylantatli
 
+# Collections
+collections:
+  navigating-finances:
+    output: true
+    permalink: /navigating-finances/:title:output_ext
+
 # Social
 # if you don't have any of social below, comment the line.
 #google:
