@@ -23,7 +23,7 @@ comments: true
     <tr>
         <td>1</td>
         <td>서론</td>
-        <td><a href="/navigating-finances/1" class="btn btn-sm" target="_blank">READ</a></td>
+        <td><a href="/navigating-finances/1" class="btn btn-sm">READ</a></td>
     </tr>
     <tr>
         <td>2</td>
@@ -109,3 +109,12 @@ comments: true
         <td colspan="3">은퇴 자금을 마련한다. 참된 재정적 자유를 누린다.</td>
     </tr>
 </table>
+
+# 참고도서
+<a href="https://goo.gl/kFHJVT" target="_blank">돈에 넘어진 성경의 사람들(척 벤틀리 지음 / 왕진무 옮김 / 한국청지기아카데미)</a>
+
+
+<small>
+*혹시 자신이 좀 더 자세히 도움을 얻고자 한다면 아래 사이트를 통해 도움을 얻을 수 있다. <br>
+<a href="http://www.koreasa.org/" target="_blank">(http://www.koreasa.org/)</a>
+</small>
