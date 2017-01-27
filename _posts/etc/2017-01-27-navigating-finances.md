@@ -71,41 +71,41 @@ category: etc
 아래 표를 보고 자신의 현재 위치를 파악하고, 참된 재정적 자유를 이루기 위해 다음 스텝이 무엇인지 확인해 보자.
 <table>
     <tr>
-        <td>목적지</td>
+        <td nowrap>목적지</td>
         <td colspan="3">내용</td>
     </tr>
     <tr>
-        <td>1차 목적지</td>
+        <td nowrap valign="top">1차 목적지</td>
         <td colspan="3">비상금 100만원을 저축한다. 지출계획을 세운다. 드림과 나눔을 실천한다.</td>
     </tr>
     <tr>
-        <td>2차 목적지</td>
+        <td nowrap valign="top">2차 목적지</td>
         <td colspan="3">비상시를 위한 한 달치 생활비를 저축한다. 신용카드 부채를 상환한다.</td>
     </tr>
     <tr>
-        <td valign="top">3차 목적지</td>
+        <td nowrap valign="top">3차 목적지</td>
         <td colspan="3">
             3~6개월 정도의 생활비를 저축한다. 자동차 할부금을 납부한다. <br>
             학자금 대출 등 가계부채를 상환한다.
         </td>
     </tr>    
     <tr>
-        <td valign="top">4차 목적지</td>
+        <td nowrap valign="top">4차 목적지</td>
         <td colspan="3">
             주택이나 자동차 등의 구매를 위해 저축한다. 자녀 학자금을 위해 저축한다.<br>
             창업 자금을 위한 저축을 시작한다. 재정적 자유(은퇴)를 위한 저축을 한다.
         </td>
     </tr>        
     <tr>
-        <td>5차 목적지</td>
+        <td nowrap valign="top">5차 목적지</td>
         <td colspan="3">형편에 맞는 집을 구매한다. 주택담보대출 상환을 시작한다.</td>
     </tr>            
     <tr>
-        <td>6차 목적지</td>
+        <td nowrap valign="top">6차 목적지</td>
         <td colspan="3">주택담보대출 상환을 완료한다. 자녀 학자금을 마련한다.</td>
     </tr>
     <tr>
-        <td>7차 목적지</td>
+        <td nowrap valign="top">7차 목적지</td>
         <td colspan="3">은퇴 자금을 마련한다. 참된 재정적 자유를 누린다.</td>
     </tr>
 </table>
