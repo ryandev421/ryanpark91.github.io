@@ -113,6 +113,7 @@ category: etc
 </table>
 
 # 참고도서
+<a href="https://goo.gl/imhbeY" target="_blank">청지기 성경적 재정 교육(하워드 데이튼 저자 / 한국청지기아카데미 번역 / 한국청지기아카데미)</a> <br>
 <a href="https://goo.gl/kFHJVT" target="_blank">돈에 넘어진 성경의 사람들(척 벤틀리 지음 / 왕진무 옮김 / 한국청지기아카데미)</a>
 
 
