@@ -30,7 +30,7 @@ category: etc
     <tr>
         <td>2</td>
         <td>하나님의 역할과 우리의 역할</td>
-        <td></td>
+        <td><a href="/navigating-finances/2" class="btn btn-sm">READ</a></td>
     </tr>
     <tr>
         <td>3</td>
