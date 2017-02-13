@@ -35,7 +35,7 @@ category: etc
     <tr>
         <td>3</td>
         <td>부채</td>
-        <td></td>
+        <td><a href="/navigating-finances/3" class="btn btn-sm">READ</a></td>
     </tr>
     <tr>
         <td>4</td>
