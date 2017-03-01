@@ -40,7 +40,7 @@ category: etc
     <tr>
         <td>4</td>
         <td>정직과 조언</td>
-        <td></td>
+        <td><a href="/navigating-finances/4" class="btn btn-sm">READ</a></td>
     </tr>
     <tr>
         <td>5</td>
