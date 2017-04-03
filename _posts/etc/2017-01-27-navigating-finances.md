@@ -45,7 +45,7 @@ category: etc
     <tr>
         <td>5</td>
         <td>드림과 나눔</td>
-        <td></td>
+        <td><a href="/navigating-finances/5" class="btn btn-sm">READ</a></td>
     </tr>
     <tr>
         <td>6</td>
