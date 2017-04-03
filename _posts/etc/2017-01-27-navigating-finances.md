@@ -67,6 +67,11 @@ category: etc
         <td>영생</td>
         <td></td>
     </tr>
+    <tr>
+        <td>10</td>
+        <td>간증문</td>
+        <td><a href="/navigating-finances/10" class="btn btn-sm">READ</a></td>
+    </tr>
 </table>
 
 # 컴퍼스 머니맵
