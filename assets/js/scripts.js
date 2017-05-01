@@ -1,11 +1,3 @@
-// redirect to https
-$(function () {
-    var host = "ryanpark91.github.io"
-    if (window.location.host == host && window.location.protocol != "https:") {
-        window.location.protocol = "https:"
-    }
-});
-
 // dl-menu options
 $(function() {
   $( '#dl-menu' ).dlmenu({
