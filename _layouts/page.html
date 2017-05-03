@@ -24,9 +24,6 @@ layout: compress
                 {{ content }}
             </div>
         </div>
-        {% if page.comments %}
-            {% include disqus_comments.html %}
-        {% endif %}
     </header>
     {% include scripts.html %}
     {% if site.mathjax == true %}
