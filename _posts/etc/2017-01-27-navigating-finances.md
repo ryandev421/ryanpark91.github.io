@@ -50,7 +50,7 @@ category: etc
     <tr>
         <td>6</td>
         <td>일</td>
-        <td></td>
+        <td><a href="/navigating-finances/6" class="btn btn-sm">READ</a></td>
     </tr>
     <tr>
         <td>7</td>
