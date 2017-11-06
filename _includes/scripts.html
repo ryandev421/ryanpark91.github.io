@@ -33,6 +33,16 @@
     <!-- Facebook -->
     <div id="fb-root"></div>
     <script>
+        window.fbAsyncInit = function() {
+            FB.init({
+                appId      : '308470976319914',
+                xfbml      : true,
+                version    : 'v2.10'
+            });
+
+            FB.AppEvents.logPageView();
+        };
+
         (function(d, s, id) {
             var js, fjs = d.getElementsByTagName(s)[0];
             if (d.getElementById(id)) return;
