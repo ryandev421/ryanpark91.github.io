@@ -38,7 +38,7 @@ layout: compress
                 {% include meta.html %}
                 </div>
             </div>
-            <div class="fb-comments" data-href="https://ryanpark.me{{ page.url }}" data-numposts="5" data-width="100%"></div>
+            <div class="fb-comments" data-href="{{ page.url }}" data-numposts="5" data-width="100%"></div>
         </div>
         {% if page.comments %}
             {% include disqus_comments.html %}
