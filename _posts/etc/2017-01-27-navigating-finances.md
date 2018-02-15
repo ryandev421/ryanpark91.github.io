@@ -55,7 +55,7 @@ category: etc
     <tr>
         <td>7</td>
         <td>저축과 투자</td>
-        <td></td>
+        <td><a href="/navigating-finances/7" class="btn btn-sm">READ</a></td>
     </tr>
     <tr>
         <td>8</td>
