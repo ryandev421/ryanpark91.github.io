@@ -16,7 +16,6 @@ category: etc
 여러 그리스도인에게 도움이 되고 도전이 되길 바란다. 더불어 현재 이 글을 읽고 있는 자신이 기독교인이 아니라도 현재 재정적인 어려움과 고민이 있다면 한 번이라도 훑어보길 권한다.
 
 # 목차
-<small>*READ 버튼이 없는 것은 제가 아직 정리하지 못한 과입니다. 매주 한 과씩 정리하도록 노력하겠습니다^-^</small>
 <table>
     <tr>
         <td>주차</td>
@@ -60,7 +59,7 @@ category: etc
     <tr>
         <td>8</td>
         <td>위기와 관점</td>
-        <td></td>
+        <td><a href="/navigating-finances/8" class="btn btn-sm">READ</a></td>
     </tr>
     <tr>
         <td>9</td>
