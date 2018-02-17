@@ -64,7 +64,7 @@ category: etc
     <tr>
         <td>9</td>
         <td>영생</td>
-        <td></td>
+        <td><a href="/navigating-finances/9" class="btn btn-sm">READ</a></td>
     </tr>
     <tr>
         <td>10</td>
