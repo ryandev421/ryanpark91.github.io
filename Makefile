@@ -1,3 +1,5 @@
+serve:
+	bundle exec jekyll serve
 push-til:
 	git subtree push --prefix=_posts/development/til til_repo master
 
