@@ -3,7 +3,7 @@ layout: post
 title: 로맨스 연재 개발기
 date: 2017-10-03
 excerpt: "인생 첫 PM이 되었어요!"
-tags: [PM, ridi, ppt]
+tags: [PM]
 comments: true
 category: development
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 게임 데이터 분석 용어정리
 date: 2017-05-01
 excerpt: "게임 회사에 처음 근무하면서 데이터 분석 관련 용어가 익숙치 않아 따로 정리했던 것을 공유하였다"
-tags: [게임, 데이터분석, 용어, data, analytics]
+tags: [게임, 데이터분석, 용어]
 comments: true
 category: development
 ---
