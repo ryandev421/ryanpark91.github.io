@@ -2,7 +2,7 @@
 layout: page
 title: Kyungjun Park
 tags: [about, kyungjun, ryan]
-date: 2017-01-01
+date: 2018-11-21
 comments: false
 ---
 
