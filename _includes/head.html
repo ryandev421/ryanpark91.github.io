@@ -57,11 +57,3 @@
     {% unless feature contains 'http://' or feature contains 'https://' %}{% capture feature %}/{{ feature }}{% endcapture %}{% endunless %}
     <style type="text/css">.feature {background-image:url({{ feature }});}</style>
     {% endif %}
-    <!-- google adsense -->
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script>
-        (adsbygoogle = window.adsbygoogle || []).push({
-            google_ad_client: "ca-pub-8615194589591291",
-            enable_page_level_ads: true
-        });
-    </script>
