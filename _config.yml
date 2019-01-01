@@ -69,7 +69,7 @@ instagram:          ryan.park91
 
 # Gems
 plugins:
-  - github-pages
+  - jekyll
 
 jekyll-mentions:
     base_url: https://github.com
