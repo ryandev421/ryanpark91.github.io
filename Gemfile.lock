@@ -242,8 +242,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  coffee-script
   github-pages
-  jekyll
 
 BUNDLED WITH
    1.17.3
