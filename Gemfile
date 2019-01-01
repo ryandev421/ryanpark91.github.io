@@ -1,4 +1,7 @@
 source "https://rubygems.org"
 
 gem 'github-pages', group: :jekyll_plugins
-gem 'coffee-rails'
+
+group :jekyll_plugins do
+  gem "jekyll-netlify"
+end
