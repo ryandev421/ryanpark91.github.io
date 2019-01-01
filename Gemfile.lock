@@ -242,7 +242,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  coffee-script-source
+  coffee-script (= 2.4.1)
   github-pages
 
 BUNDLED WITH
