@@ -244,6 +244,7 @@ PLATFORMS
 DEPENDENCIES
   coffee-script (~> 2.4.1, >= 2.4.1)
   github-pages
+  jekyll
 
 BUNDLED WITH
    1.17.3
