@@ -1,0 +1,3 @@
+[build]
+  command = "bundle update --source coffee-script-source && jekyll build"
+  publish = "_site"
