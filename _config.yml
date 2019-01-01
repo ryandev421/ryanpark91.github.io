@@ -68,11 +68,8 @@ instagram:          ryan.park91
 #hackernews:        username
 
 # Gems
-gems:
-  - jekyll-mentions
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
+plugins:
+  - github-pages
 
 jekyll-mentions:
     base_url: https://github.com
