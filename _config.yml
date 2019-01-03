@@ -3,7 +3,7 @@ title:              Ryan Park(박경준)
 bio:                'Software Engineer / Soongsil University'
 description:        'Try your best rather than be the best'
 reading_time:       true
-words_per_minute:   200
+words_per_minute:   150
 logo:               'assets/img/profile_photo.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
