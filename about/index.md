@@ -37,7 +37,7 @@ comments: false
 
 ## WORK EXPERIENCE
 * [리디](http://www.ridicorp.com/), 스토어팀 (2016.07 - 2018.08), 뷰어팀 (2018.09 - 현재)
-* [이파피루스](https://epapyrus.com/), 연구개발실	, 2015.10 – 216.07
+* [이파피루스](https://epapyrus.com/), 연구개발실	, 2015.10 – 2016.07
 * 코쿤게임즈, 개발팀, 2014.12 – 2015.08
 * Microsoft, R&D팀, 2013.01 – 2013.07
 
