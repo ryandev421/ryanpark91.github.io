@@ -2,4 +2,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://ryanpark.me/sitemap.xml
+Sitemap: http://ryanpark.dev/sitemap.xml
