@@ -1,32 +1,17 @@
-# Site
-title:              Ryan Park(박경준)
-bio:                'Software Engineer / Soongsil University'
-description:        'Try your best rather than be the best'
-reading_time:       true
-words_per_minute:   150
-logo:               'assets/img/profile_photo.jpg'
-background:         'assets/img/placeholder-big.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                https://ryanpark.dev
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-# Jekyll
-permalink:          /:title/
-markdown:           kramdown
-highlighter:        rouge
-kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
-sass:
-  sass_dir:         _sass
-  style:            compressed
+# Permalinks
+permalink: /:title/
+# relative_permalinks: true
 
-# Comments
-#disqus_shortname:   ryanpark-me
+# Setup
+title:            Ryan Park
+tagline:          'A Jekyll theme'
+description:      'Try your best rather than be the best'
+url:              https://ryanpark.dev
+baseurl:          /
 
 # Collections
 collections:
@@ -34,45 +19,16 @@ collections:
     output: true
     permalink: /navigating-finances/:title:output_ext
 
-# Social
-# if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
-  #analytics:
-  #verify:
-  #ad-client:
-  #ad-slot:
-#bing-verify:
-email: parkryan91@gmail.com
-#twitter:            username
-facebook:           kyungjun.park.77
-github-url:         ryanpark91
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
-#xing:              username
-instagram:          ryan.park91
-#lastfm:            username
-#tumblr:            username
-#medium:            '@username'
-#pinterest:         username
-#foursquare:        username
-#steam:              username
-#dribbble:          username
-#youtube:           username
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
+paginate:         5
 
-# Gems
+# Custom vars
+version:          2.1.0
+
 plugins:
   - github-pages
 
 jekyll-mentions:
-    base_url: https://github.com
+  base_url: https://github.com
 
 # Exclude list
 exclude: [Makefile, README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
