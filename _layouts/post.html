@@ -18,5 +18,16 @@ layout: default
 
   {{ content }}
 
-  <div class="fb-comments" data-href="{{{{site.url}}{{ page.url}} }}" data-numposts="5" data-width="100%"></div>
+  <div id="disqus_thread"></div>
+  <script>
+    
+  (function() { // DON'T EDIT BELOW THIS LINE
+  var d = document, s = d.createElement('script');
+  s.src = 'https://ryanpark-me.disqus.com/embed.js';
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                              
 </div>
