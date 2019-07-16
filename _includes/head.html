@@ -7,9 +7,21 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
   
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">	
+  {% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+  <meta property="og:image" content="//ryanpark.dev/assets/img/profile_photo.jpg">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">	
   <meta property="og:site_name" content="{{ site.title }}">	
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
   
+  <!-- favicon -->
+  <link rel="apple-touch-icon" href="/public/apple-icon-precomposed.png">	
+  <link rel="apple-touch-icon" sizes="72x72" href="/public/apple-icon-72x72.png">	
+  <link rel="apple-touch-icon" sizes="114x114" href="/public/apple-icon-114x114.png">	
+  <link rel="apple-touch-icon" sizes="144x144" href="/public/apple-icon-144x144.png">	
+  <link rel="shortcut icon" type="image/png" href="/favicon.png" />	
+  <link rel="shortcut icon" href="/public/favicon.ico" />
   <title>
     {% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}
