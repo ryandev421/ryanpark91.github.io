@@ -13,6 +13,12 @@ description:      'Try your best rather than be the best'
 url:              https://ryanpark.dev
 baseurl:          /
 
+# Social
+email:              parkryan91@gmail.com
+facebook:           kyungjun.park.77
+github-url:         ryanpark91
+instagram:          ryan.park91
+
 # Collections
 collections:
   navigating-finances:
