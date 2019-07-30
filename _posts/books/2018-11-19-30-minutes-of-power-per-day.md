@@ -3,7 +3,7 @@ layout: post
 title: "[독서노트] 하루 30분의 힘"
 date: 2018-11-19
 excerpt: "당신의 미래를 바꾸는 기적의 시간 사용법 | 김범주 저"
-tags: [독서노트, 자기계발]
+tags: [독서노트]
 category: book
 comments: true
 ---
