@@ -8,6 +8,8 @@ comments: true
 category: development
 ---
 
+<center><img src="/assets/img/posts/ridibooks-3rd-year.png"/></center>
+
 어느 덧 리디북스에 입사한지 3주년이 되었다. 길다면 길고 짧다면 짧은 시간이지만, 3년이란 시간동안 나의 변화들을 기록해보려고 한다.
 리디북스에 있는 동안 [PM](/ridi-romance-serial-development/)도 해보고 짧은 기간 [매니저](/look-back-2018/)도 해보고
 다양한 경험을 해본 것 같다. 개발적인 부분도 많이 성장했다. PHP, Python, Node를 포함한 다양한 언어와 프레임워크를 써볼 기회가 있었고
@@ -50,8 +52,6 @@ AWS ECS, DynamoDB, Lambda 등 여러 인프라를 직접 써보고 관리할 수
 그렇기에 동료들의 중요성을 많이 깨닭게 되었다. 주변에 좋은 동료들이 많다보니 나도 좋은 동료가 되어주기 위해 노력 중이다.
 
 ## 정리
-
-<center><img src="/assets/img/posts/ridibooks-3rd-year.png"/></center>
 
 리디를 통해 개인적으로 많은 성장을 했다고 생각한다. 다양한 기술스택을 사용해보고 소프트웨어 설계를 넘어 인프라 설계까지 많은 경험을 했고 하고 있는 중이다.
 이러한 경험들을 통해 '개발만 잘하면 된다'라는 생각이 많이 바뀌게 되었다. 우리는 보통 **협업을 통해 함께** 하나의 제품을 만들어 간다.
